@@ -30,26 +30,6 @@ A **Software Engineer** with a passion for building full-stack applications — 
 
 ---
 
-## Featured Projects
-
-### [Kaku](https://github.com/sunmorphy/kaku) — Full-Stack Portfolio Ecosystem
-A complete portfolio platform built from scratch — public-facing site, headless REST API, and private CMS dashboard. All content updates dynamically without redeployment.
-`Next.js` `TypeScript` `Express.js` `PostgreSQL` `Tailwind CSS` `ImageKit`
-
-### [Comphy](https://github.com/sunmorphy/comphy-app) — Photography Community App
-Android community platform for photography enthusiasts in Indonesia. Built as the sole Android Developer during SYNRGY Academy bootcamp.
-`Kotlin` `MVVM` `Dagger Hilt` `Retrofit` `Room` `Jetpack Navigation`
-
-### [Rumah Kita](https://github.com/sunmorphy/rumah-kita) — Mental Health News Portal
-A safe, non-toxic news portal for mental health articles. Achieved a SUS usability score of 74.31 ("Good") in user testing.
-`Node.js` `Express.js` `EJS` `PostgreSQL` `Sequelize`
-
-### [Kampus Lite](https://github.com/sunmorphy/KampusLite) — Offline-First PWA
-A Progressive Web App for campus students with unreliable internet — access schedules and submit attendance even when offline.
-`React.js` `TypeScript` `Vite` `Service Workers` `IndexedDB`
-
----
-
 ## GitHub Stats
 
 ![Andika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunmorphy&show_icons=true&theme=default&hide_border=true&count_private=true)
